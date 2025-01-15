@@ -52,4 +52,8 @@ const yeremia = {
 ```
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeremiapane&show_icons=true&locale=en&layout=compact" alt="yeremiapane" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yeremiapane)](https://git.io/streak-stats)
+<div>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=yeremiapane&theme=tokyonight-duo" alt="GitHub Streak" />
+  </a>
+</div>
