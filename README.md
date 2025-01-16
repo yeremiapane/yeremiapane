@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yeremia Yosefan Pane</h1>
-<h3 align="center">A passionate Data Engineer and Data Analyst from Indonesia. I am graduate student from Universitas Negeri Medan majoring computer science. Nice To See You, Let's work together👋</h3>
+<h3 align="center">A passionate Data Engineer and Data Analyst from Indonesia. I am graduate student from Universitas Negeri Medan majoring computer science. Nice To Know You, Let's work together👋</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeremiapane&label=Profile%20views&color=0e75b6&style=flat" alt="yeremiapane" /> </p>
 
