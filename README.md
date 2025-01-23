@@ -46,7 +46,7 @@ const yeremia = {
         misc: ["Firebase", "Selenium", "Open-CV", "Tensorflow", "PyTorch"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
+    currentProject: "I am developing web portofolio and my blog app also write articles",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
