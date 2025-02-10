@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="yeremiapane.me">yeremiapane</a>
 
-- 📝 I regularly write articles on [yeremiapane.me/blog](yeremiapane.me/blog)
+- 📝 I regularly write articles on <a href="yeremiapane.me/blog">my blogs</a>
 
 - 💬 Ask me about **Python, Golang, Tools Data**
 
