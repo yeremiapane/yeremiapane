@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Backend Developer, Data Engineer, Data Analyst**
 
-- 👨‍💻 All of my projects are available at <a href="yeremiapane.me">yeremiapane</a>
+- 👨‍💻 All of my projects are available at <a href="yeremiapane.me">yeremiapane.me</a>
 
 - 📝 I regularly write articles on <a href="yeremiapane.me/blog">my blogs</a>
 
