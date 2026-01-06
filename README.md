@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yeremia Yosefan Pane</h1>
-<h3 align="center">A passionate Data Engineer and Data Analyst from Indonesia. I am graduate student from Universitas Negeri Medan majoring computer science. Nice To Know You, Let's work together👋</h3>
+<h3 align="center">A passionate Data Engineer and AI Engineer from Indonesia. I am currently work as AI Engineer. Nice To Know You, Let's work together👋</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeremiapane&label=Profile%20views&color=0e75b6&style=flat" alt="yeremiapane" /> </p>
 
-- 🌱 I’m currently learning **Python, Golang, MySQL, Tableu, PowerBI, Looker Studio, Docker**
+- 🌱 I’m currently learning **Python, Golang, MySQL, PostgreSQL Tableu, PowerBI, Looker Studio, Docker**
 
-- 👯 I’m looking to collaborate on **Data Engineer**
+- 👯 I’m looking to collaborate on **Data Engineer & AI Engineer**
 
-- 🤝 I’m looking for help with **Backend Developer, Data Engineer, Data Analyst**
+- 🤝 I’m looking for help with **Backend Developer, Data Engineer, Data Analyst, AI Engineer**
 
 - 👨‍💻 All of my projects are available at <a href="yeremiapane.me">yeremiapane.me</a>
 
@@ -30,7 +30,7 @@
 const yeremia = {
     pronouns: "He" | "Him",
     code: ["Python", "Golang"],
-    askMeAbout: ["Data Analyst", "Data Engineer", "Web Developer", "Photography"],
+    askMeAbout: ["Data Analyst", "Data Engineer", "AI Engineer", "Web Developer", "Photography"],
     technologies: {
         frontEnd: {
             js: ["React"],
@@ -42,7 +42,7 @@ const yeremia = {
             Golang: ["Gin", "Gorilla"]
         },
         devOps: ["Docker🐳", "Nginx"],
-        databases: ["MySql", "sqlite"],
+        databases: ["MySql", "PostgreSQL"],
         misc: ["Firebase", "Selenium", "Open-CV", "Tensorflow", "PyTorch"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
