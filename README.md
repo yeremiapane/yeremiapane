@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Python, Golang, MySQL, PostgreSQL Tableu, PowerBI, Looker Studio, Docker**
 
-- 👯 I’m looking to collaborate on **Data Engineer & AI Engineer**
+- 👯 I’m looking to collaborate on **Data Engineer & AI Specialist/AI Engineer**
 
 - 🤝 I’m looking for help with **Backend Developer, Data Engineer, Data Analyst, AI Engineer**
 
-- 👨‍💻 All of my projects are available at <a href="yeremiapane.me">yeremiapane.me</a>
+- 👨‍💻 All of my projects are available at <a href="yeremiapane.site">yeremiapane.me</a>
 
-- 📝 I regularly write articles on <a href="yeremiapane.me/blog">my blogs</a>
+- 📝 I regularly write articles on <a href="yeremiapane.site/blog">my blogs</a>
 
 - 💬 Ask me about **Python, Golang, Tools Data**
 
